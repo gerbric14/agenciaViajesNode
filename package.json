@@ -4,7 +4,8 @@
   "description": "Proyecto con node.js",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "type": "module",
   "author": "Gerbric14",
